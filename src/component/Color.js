@@ -20,7 +20,7 @@ const Color = props => {
     <div className="container">
       <div className="card">
         <div className="card-image">
-          <img className="Dimes" src={ColorBaloons} alt="picture" />
+          <img className="Dimes" src={ColorBaloons} alt="picDimes" />
 
         </div>
         <div className="card-text">
